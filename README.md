@@ -1,6 +1,7 @@
 ### Languages and Tools
 ![JIRA](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![GIT](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
